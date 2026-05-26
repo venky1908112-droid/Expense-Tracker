@@ -44,5 +44,5 @@ python main.py
 
 ## Author
 
-Venkat Sai
-INTERN ID : CITS1589
+- Venkat Sai
+- INTERN ID : CITS1589
